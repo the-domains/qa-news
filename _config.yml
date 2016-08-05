@@ -6,9 +6,9 @@ color:
   saturation: 0.6294941667001694
   rhythmicContrast: 0.7124765911139548
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
 name: QA News
