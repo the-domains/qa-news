@@ -1,0 +1,14 @@
+layout_spectrum: 0.5357882548123598
+typography_spectrum: 0.4088079729117453
+color:
+  brandStrength: 0.7792814518325031
+  lightness: 0.28488318622112274
+  saturation: 0.6294941667001694
+  rhythmicContrast: 0.7124765911139548
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: QA News
